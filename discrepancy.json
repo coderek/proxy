@@ -1,0 +1,127 @@
+[ {
+  "impressions" : 1463627,
+  "pvConversions" : 3373,
+  "pcConversions" : 32,
+  "clicks" : 1151,
+  "totalConversions" : 3405,
+  "cost" : 5138.3182,
+  "date" : 1481356800000
+}, {
+  "impressions" : 1628067,
+  "pvConversions" : 3045,
+  "pcConversions" : 29,
+  "clicks" : 1093,
+  "totalConversions" : 3074,
+  "cost" : 7127.39698,
+  "date" : 1481443200000
+}, {
+  "impressions" : 1390124,
+  "pvConversions" : 3241,
+  "pcConversions" : 22,
+  "clicks" : 1483,
+  "totalConversions" : 3263,
+  "cost" : 7048.93163,
+  "date" : 1481529600000
+}, {
+  "impressions" : 1358796,
+  "pvConversions" : 3560,
+  "pcConversions" : 31,
+  "clicks" : 1262,
+  "totalConversions" : 3591,
+  "cost" : 8163.44894,
+  "date" : 1481616000000
+}, {
+  "impressions" : 1810504,
+  "pvConversions" : 3282,
+  "pcConversions" : 5,
+  "clicks" : 1372,
+  "totalConversions" : 3287,
+  "cost" : 10211.79299,
+  "date" : 1481702400000
+}, {
+  "impressions" : 1997468,
+  "pvConversions" : 3157,
+  "pcConversions" : 25,
+  "clicks" : 1353,
+  "totalConversions" : 3182,
+  "cost" : 10666.51025,
+  "date" : 1481788800000
+}, {
+  "impressions" : 393474,
+  "pvConversions" : 263,
+  "pcConversions" : 0,
+  "clicks" : 291,
+  "totalConversions" : 263,
+  "cost" : 1764.37612,
+  "date" : 1481875200000
+}, {
+  "impressions" : 0,
+  "pvConversions" : 0,
+  "pcConversions" : 0,
+  "tpImpressions" : 162663,
+  "clicks" : 0,
+  "tpClicks" : 128,
+  "tpPcConversions" : 0,
+  "tpPvConversions" : 0,
+  "totalConversions" : 0,
+  "tpTotalConversions" : 0,
+  "cost" : 0.0,
+  "date" : 1481356800000,
+  "campaignName" : "15-KZ-0030 Vicks Humidifiers "
+}, {
+  "impressions" : 0,
+  "pvConversions" : 0,
+  "pcConversions" : 0,
+  "tpImpressions" : 165682,
+  "clicks" : 0,
+  "tpClicks" : 189,
+  "tpPcConversions" : 0,
+  "tpPvConversions" : 0,
+  "totalConversions" : 0,
+  "tpTotalConversions" : 0,
+  "cost" : 0.0,
+  "date" : 1481443200000,
+  "campaignName" : "15-KZ-0030 Vicks Humidifiers "
+}, {
+  "impressions" : 0,
+  "pvConversions" : 0,
+  "pcConversions" : 0,
+  "tpImpressions" : 117032,
+  "clicks" : 0,
+  "tpClicks" : 104,
+  "tpPcConversions" : 0,
+  "tpPvConversions" : 0,
+  "totalConversions" : 0,
+  "tpTotalConversions" : 0,
+  "cost" : 0.0,
+  "date" : 1481529600000,
+  "campaignName" : "15-KZ-0030 Vicks Humidifiers "
+}, {
+  "impressions" : 0,
+  "pvConversions" : 0,
+  "pcConversions" : 0,
+  "tpImpressions" : 135225,
+  "clicks" : 4,
+  "tpClicks" : 109,
+  "tpPcConversions" : 0,
+  "tpPvConversions" : 0,
+  "totalConversions" : 0,
+  "tpTotalConversions" : 0,
+  "cost" : 0.0,
+  "date" : 1481616000000,
+  "campaignName" : "15-KZ-0030 Vicks Humidifiers "
+}, {
+  "impressions" : 0,
+  "pvConversions" : 0,
+  "pcConversions" : 0,
+  "tpImpressions" : 139039,
+  "clicks" : 0,
+  "tpClicks" : 138,
+  "tpPcConversions" : 0,
+  "tpPvConversions" : 0,
+  "totalConversions" : 0,
+  "tpTotalConversions" : 0,
+  "cost" : 0.0,
+  "date" : 1481702400000,
+  "campaignName" : "15-KZ-0030 Vicks Humidifiers "
+} ]

@@ -1,0 +1,876 @@
+{
+  "rows" : [ {
+    "domainName" : "doubleclick.net",
+    "date" : 1461222000000,
+    "count" : 16
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1461308400000,
+    "count" : 106
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1461394800000,
+    "count" : 103
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1461481200000,
+    "count" : 81
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1461567600000,
+    "count" : 130
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1461654000000,
+    "count" : 129
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1461740400000,
+    "count" : 178
+  }, {
+    "domainName" : "",
+    "date" : 1461826800000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1461826800000,
+    "count" : 125
+  }, {
+    "domainName" : "",
+    "date" : 1461913200000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1461913200000,
+    "count" : 121
+  }, {
+    "domainName" : "",
+    "date" : 1461999600000,
+    "count" : 4
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1461999600000,
+    "count" : 108
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1462086000000,
+    "count" : 55
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1462172400000,
+    "count" : 132
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1462258800000,
+    "count" : 128
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1462345200000,
+    "count" : 107
+  }, {
+    "domainName" : "",
+    "date" : 1462431600000,
+    "count" : 3
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1462431600000,
+    "count" : 137
+  }, {
+    "domainName" : "",
+    "date" : 1462518000000,
+    "count" : 7
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1462518000000,
+    "count" : 137
+  }, {
+    "domainName" : "",
+    "date" : 1462604400000,
+    "count" : 1
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1462604400000,
+    "count" : 64
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1462690800000,
+    "count" : 42
+  }, {
+    "domainName" : "",
+    "date" : 1462777200000,
+    "count" : 1
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1462777200000,
+    "count" : 89
+  }, {
+    "domainName" : "",
+    "date" : 1462863600000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1462863600000,
+    "count" : 95
+  }, {
+    "domainName" : "",
+    "date" : 1462950000000,
+    "count" : 1
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1462950000000,
+    "count" : 79
+  }, {
+    "domainName" : "",
+    "date" : 1463036400000,
+    "count" : 3
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1463036400000,
+    "count" : 81
+  }, {
+    "domainName" : "",
+    "date" : 1463122800000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1463122800000,
+    "count" : 93
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1463209200000,
+    "count" : 64
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1463295600000,
+    "count" : 49
+  }, {
+    "domainName" : "",
+    "date" : 1463382000000,
+    "count" : 6
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1463382000000,
+    "count" : 79
+  }, {
+    "domainName" : "",
+    "date" : 1463468400000,
+    "count" : 3
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1463468400000,
+    "count" : 82
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1463554800000,
+    "count" : 78
+  }, {
+    "domainName" : "",
+    "date" : 1463641200000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1463641200000,
+    "count" : 100
+  }, {
+    "domainName" : "",
+    "date" : 1463727600000,
+    "count" : 3
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1463727600000,
+    "count" : 89
+  }, {
+    "domainName" : "",
+    "date" : 1463814000000,
+    "count" : 1
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1463814000000,
+    "count" : 50
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1463900400000,
+    "count" : 33
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1463986800000,
+    "count" : 49
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1464073200000,
+    "count" : 95
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1464159600000,
+    "count" : 86
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1464246000000,
+    "count" : 81
+  }, {
+    "domainName" : "",
+    "date" : 1464332400000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1464332400000,
+    "count" : 93
+  }, {
+    "domainName" : "",
+    "date" : 1464418800000,
+    "count" : 1
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1464418800000,
+    "count" : 60
+  }, {
+    "domainName" : "",
+    "date" : 1464505200000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1464505200000,
+    "count" : 35
+  }, {
+    "domainName" : "",
+    "date" : 1464591600000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1464591600000,
+    "count" : 75
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1464678000000,
+    "count" : 82
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1464764400000,
+    "count" : 104
+  }, {
+    "domainName" : "",
+    "date" : 1464850800000,
+    "count" : 1
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1464850800000,
+    "count" : 119
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1464937200000,
+    "count" : 104
+  }, {
+    "domainName" : "",
+    "date" : 1465023600000,
+    "count" : 3
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1465023600000,
+    "count" : 82
+  }, {
+    "domainName" : "",
+    "date" : 1465110000000,
+    "count" : 1
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1465110000000,
+    "count" : 45
+  }, {
+    "domainName" : "",
+    "date" : 1465196400000,
+    "count" : 5
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1465196400000,
+    "count" : 93
+  }, {
+    "domainName" : "",
+    "date" : 1465282800000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1465282800000,
+    "count" : 119
+  }, {
+    "domainName" : "",
+    "date" : 1465369200000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1465369200000,
+    "count" : 110
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1465455600000,
+    "count" : 27
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1465542000000,
+    "count" : 14
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1465628400000,
+    "count" : 4
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1465714800000,
+    "count" : 4
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1465801200000,
+    "count" : 14
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1465887600000,
+    "count" : 6
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1465974000000,
+    "count" : 12
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1466060400000,
+    "count" : 19
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1466146800000,
+    "count" : 12
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1466233200000,
+    "count" : 3
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1466319600000,
+    "count" : 1
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1466406000000,
+    "count" : 8
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1466492400000,
+    "count" : 17
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1466578800000,
+    "count" : 19
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1466665200000,
+    "count" : 8
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1466751600000,
+    "count" : 7
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1466838000000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1466924400000,
+    "count" : 3
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1467010800000,
+    "count" : 10
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1467097200000,
+    "count" : 12
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1467183600000,
+    "count" : 13
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1467270000000,
+    "count" : 15
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1467356400000,
+    "count" : 3
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1467442800000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1467529200000,
+    "count" : 4
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1467615600000,
+    "count" : 12
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1467702000000,
+    "count" : 8
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1467788400000,
+    "count" : 14
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1467874800000,
+    "count" : 9
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1467961200000,
+    "count" : 9
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1468047600000,
+    "count" : 4
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1468134000000,
+    "count" : 5
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1468220400000,
+    "count" : 5
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1468306800000,
+    "count" : 9
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1468393200000,
+    "count" : 17
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1468479600000,
+    "count" : 11
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1468566000000,
+    "count" : 18
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1468652400000,
+    "count" : 5
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1468738800000,
+    "count" : 1
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1468825200000,
+    "count" : 12
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1468911600000,
+    "count" : 14
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1468998000000,
+    "count" : 15
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1469084400000,
+    "count" : 10
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1469170800000,
+    "count" : 10
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1469257200000,
+    "count" : 3
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1469343600000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1469430000000,
+    "count" : 5
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1469516400000,
+    "count" : 14
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1469602800000,
+    "count" : 10
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1469689200000,
+    "count" : 14
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1469775600000,
+    "count" : 10
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1469862000000,
+    "count" : 4
+  }, {
+    "domainName" : "",
+    "date" : 1469948400000,
+    "count" : 1
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1469948400000,
+    "count" : 1
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1470034800000,
+    "count" : 17
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1470121200000,
+    "count" : 13
+  }, {
+    "domainName" : "",
+    "date" : 1470207600000,
+    "count" : 1
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1470207600000,
+    "count" : 8
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1470294000000,
+    "count" : 10
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1470380400000,
+    "count" : 10
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1470466800000,
+    "count" : 6
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1470553200000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1470639600000,
+    "count" : 9
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1470726000000,
+    "count" : 25
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1470812400000,
+    "count" : 8
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1470898800000,
+    "count" : 13
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1470985200000,
+    "count" : 17
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1471071600000,
+    "count" : 6
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1471158000000,
+    "count" : 6
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1471244400000,
+    "count" : 8
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1471330800000,
+    "count" : 11
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1471417200000,
+    "count" : 17
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1471503600000,
+    "count" : 3
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1471590000000,
+    "count" : 7
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1471676400000,
+    "count" : 6
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1471762800000,
+    "count" : 4
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1471849200000,
+    "count" : 8
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1471935600000,
+    "count" : 9
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1472022000000,
+    "count" : 9
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1472108400000,
+    "count" : 21
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1472194800000,
+    "count" : 10
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1472281200000,
+    "count" : 12
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1472367600000,
+    "count" : 14
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1472454000000,
+    "count" : 21
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1472540400000,
+    "count" : 17
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1472626800000,
+    "count" : 18
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1472713200000,
+    "count" : 9
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1472799600000,
+    "count" : 17
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1472886000000,
+    "count" : 1
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1472972400000,
+    "count" : 1
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1473058800000,
+    "count" : 5
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1473145200000,
+    "count" : 12
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1473231600000,
+    "count" : 12
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1473318000000,
+    "count" : 14
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1473404400000,
+    "count" : 8
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1473490800000,
+    "count" : 6
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1473577200000,
+    "count" : 7
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1473663600000,
+    "count" : 16
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1473750000000,
+    "count" : 8
+  }, {
+    "domainName" : "",
+    "date" : 1473836400000,
+    "count" : 1
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1473836400000,
+    "count" : 4
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1473922800000,
+    "count" : 4
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1474009200000,
+    "count" : 5
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1474095600000,
+    "count" : 3
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1474182000000,
+    "count" : 7
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1474268400000,
+    "count" : 11
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1474354800000,
+    "count" : 3
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1474441200000,
+    "count" : 4
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1474527600000,
+    "count" : 3
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1474614000000,
+    "count" : 4
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1474700400000,
+    "count" : 3
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1474786800000,
+    "count" : 5
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1474873200000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1474959600000,
+    "count" : 6
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1475046000000,
+    "count" : 5
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1475132400000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1475218800000,
+    "count" : 1
+  }, {
+    "domainName" : "",
+    "date" : 1475305200000,
+    "count" : 1
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1475305200000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1475391600000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1475478000000,
+    "count" : 1
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1475564400000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1475650800000,
+    "count" : 1
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1475737200000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1475823600000,
+    "count" : 1
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1475910000000,
+    "count" : 1
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1476082800000,
+    "count" : 3
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1476169200000,
+    "count" : 4
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1476255600000,
+    "count" : 1
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1476342000000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1476428400000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1476514800000,
+    "count" : 1
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1476687600000,
+    "count" : 3
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1476774000000,
+    "count" : 3
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1476860400000,
+    "count" : 1
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1476946800000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1477033200000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1477119600000,
+    "count" : 1
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1477206000000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1477292400000,
+    "count" : 2
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1477378800000,
+    "count" : 1
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1477551600000,
+    "count" : 3
+  }, {
+    "domainName" : "doubleclick.net",
+    "date" : 1477638000000,
+    "count" : 1
+  } ],
+  "asOfDateMillis" : 1482159600000
+}
