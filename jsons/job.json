@@ -1,0 +1,19 @@
+{
+   "Id":77771790, 
+   "name":"Aimee lee",
+   "contact":"+6597703876",
+   "email":"aimee.leehanyun@gmail.com",
+   "type":"DD", 
+   "status":"Pending", 
+   "priority":0,
+   "serviceStartTime":null,
+   "serviceEndTime":null,
+   "comments":null,
+   "distributionPointId":null,
+   "order":{  
+      "id":73224242,
+      "trackingId":"NLSGD00892565",
+      "goodsValue":null,
+      "cod":null
+   }
+}

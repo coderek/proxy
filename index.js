@@ -9,25 +9,7 @@ const proxy = httpProxy.createProxyServer({});
 const app = connect();
 
 const mapping = new Map();
-mapping.set(/reporting\/accounts\?/, require('./accounts'));
-mapping.set(/reporting\/summary\?/, require('./dailyEvents'));
-mapping.set(/reporting\/domain\?/, require('./domain'));
-mapping.set(/reporting\/realTimeData$/, require('./realtime'));
-mapping.set(/reporting\/fees\?/, require('./fees'));
-mapping.set(/reporting\/adSizes\?/, require('./adSizes'));
-mapping.set(/reporting\/inventoryAvails\?/, require('./inventory'));
-mapping.set(/reporting\/discrepancy\?/, require('./discrepancy'));
-mapping.set(/reporting\/margin\?/, require('./margin'));
-mapping.set(/reporting\/viewabilityData\?/, require('./viewability'));
-mapping.set(/reporting\/deal\?$/, require('./deal'));
-mapping.set(/reporting\/getDealHealthReportingAsOfDate/, require('./asOfDate'));
-mapping.set(/reporting\/deal\/metrics\/hourly/, require('./deal'));
-mapping.set(/reporting\/pixelAvails/, require('./pixel'));
-mapping.set(/reporting\/conversion/, require('./conversion'));
-mapping.set(/reporting\/strategy/, require('./strategy'));
-mapping.set(/reporting\/dataUsageFees/, require('./dataUsageFees'));
-mapping.set(/reporting\/vastEvents/, require('./vast'));
-mapping.set(/reporting\/segment/, require('./segments'));
+mapping.set(/reporting\/accounts\?/, require('./jsons/accounts'));
 
 app.use((req, res, next)=> {
     for (const [key, replacement] of mapping) {

@@ -1,0 +1,26 @@
+[  
+   {  
+      "id":35924501,
+      "type":0,
+      "data":{  
+         "name":"LemonYong",
+         "contact":"+6596186159",
+         "sign_coordinates":"103.7643847,1.3028247",
+         "comments":null,
+         "received_parcels":1,
+         "scanned_parcels":[  
+            "ZILGO856071849"
+         ],
+         "failure_reason_id":null,
+         "failure_reason_code_id":null,
+         "failure_reason_translations":null,
+         "verification_code":null,
+         "status":null,
+         "uncollected_dp_parcels":null,
+      "url":"https://cdn.ninjavan.co/sg/pods/signature_5526a522-0687-4354-9198-d7a24c703361.png",
+         "imei":"353801061059048",
+         "commit_date":1542083962611,
+         "rejection_reason":null
+      }
+   }
+]
